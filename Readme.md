@@ -1,6 +1,6 @@
 ## Laporan Praktikum
 
-> Saya menggunakan link Bootstrap 5.0, bundle.js dan DataTables dengan fokus kode seminimal mungkin.
+> Saya menggunakan Bootstrap 5.0, bundle.js dan DataTables dengan fokus kode seminimal mungkin.
 
 - Halaman Home:
 
